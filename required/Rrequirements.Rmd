@@ -1,0 +1,8 @@
+install.packages("readxl")
+install.packages("dplyr")
+install.packages("radr")
+install.packages("xlsx")
+install.packages("haven")
+install.packages("janitor")
+
+
